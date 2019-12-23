@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	arr [4]=25;
 			
 System.out.println(arr[2]);
+
 for (int i : arr) {
 	System.out.println(i);
 }
